@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    background: #89caa2;
+}
+
+.container{
+    max-width: 400px;
+}
+
+input[type=text]{
+    background: #9AD4E4;
+    border: none;
+}
+
+.annotation{
+    margin-top: 0;
+}
+
+.inline2block{
+    display: block;
+}
+
+.textbox{
+    width: 80%;
+    padding: 0.5em 0.5em;
+    font-size: medium;
+}
